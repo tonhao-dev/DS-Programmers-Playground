@@ -1,0 +1,20 @@
+{
+  "name": "ds-programmers-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonhao-dev/DS-Programmers-Playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tonhao-dev/DS-Programmers-Playground/issues"
+  },
+  "homepage": "https://github.com/tonhao-dev/DS-Programmers-Playground#readme"
+}
